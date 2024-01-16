@@ -1,0 +1,50 @@
+.formation {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  
+
+  
+  section {
+    margin: 20px;
+  }
+  
+  h2 {
+    color: #f1dcdc;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #0e0c0c;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #b3b3b3;
+  }
+  
+  p {
+    margin: 0;
+  }

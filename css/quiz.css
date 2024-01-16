@@ -1,0 +1,54 @@
+/* Styles for the quiz form container */
+.quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for the quiz form title */
+h1 {
+    text-align: center;
+    color: #3498db;
+}
+
+/* Styles for the quiz form */
+#quiz-form {
+    margin-top: 20px;
+}
+
+/* Styles for the quiz questions list */
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styles for each quiz question */
+li {
+    margin-bottom: 15px;
+}
+
+/* Styles for the quiz question labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+}
+
+/* Styles for the submit button */
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Styles for the submit button on hover */
